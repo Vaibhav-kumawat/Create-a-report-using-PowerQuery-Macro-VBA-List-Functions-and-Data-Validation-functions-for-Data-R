@@ -1,4 +1,4 @@
-# Create-a-report-using-PowerQuery-Macro-VBA-List-Functions-and-Data-Validation-functions-for-Data-R
+# Create a report using PowerQuery, Macro VBA, List Functions and Data Validation functions for Data Reporting of Supply Chain Management companies
 This project is completely based on excel.
 
 For Project please visit below links
